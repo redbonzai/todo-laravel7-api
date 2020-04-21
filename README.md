@@ -15,7 +15,7 @@ This API is built to serve the TODO VueJS single page application located here [
 
 ## Starting up the API
 
- - Get the Postman Collection here: [https://www.getpostman.com/collections/7ac71e28460b00223f6f](TODO Laravel Postman Collection)
+ - Get the Postman Collection here: [https://www.getpostman.com/collections/7ac71e28460b00223f6f]('TODO Laravel API Postman Collection')
  - Clone the API : 
 ```bash
 git clone https://github.com/redbonzai/todo-laravel7-api.git todo-laravel-api
